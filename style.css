@@ -1,0 +1,16 @@
+header {font-family:sans-serif}
+body { margin: 0px;}
+h1{margin:0;letter-spacing:3px;text-transform:upper-case;}
+.header-footer {border-width: 5px; border-color: deepskyblue pink; border-style: solid;}
+body
+{padding: 45px;margin: 50 2 100 200}
+p{background-color:pink}
+header{
+  background-color: darkcyan;
+  font-family: sans-serif;
+}
+main {padding: 45px;}
+  #small-text {
+    font-size: 10px }
+  }
+
